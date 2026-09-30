@@ -89415,6 +89415,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8112967198891254179, guid: 6af5c60d70ba64fb2bb4eec222684a40, type: 3}
+      propertyPath: jumpValues.jumpForce
+      value: 600
+      objectReference: {fileID: 0}
+    - target: {fileID: 8112967198891254179, guid: 6af5c60d70ba64fb2bb4eec222684a40, type: 3}
       propertyPath: resetDoubleJumpsOnWall
       value: 0
       objectReference: {fileID: 0}
