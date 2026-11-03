@@ -220228,6 +220228,18 @@ PrefabInstance:
       propertyPath: m_EdgeRadius
       value: 0.303795
       objectReference: {fileID: 0}
+    - target: {fileID: 4358692886835389198, guid: 500ec77208cef4eedb854b63381569c7, type: 3}
+      propertyPath: m_Color.b
+      value: 0.04225135
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358692886835389198, guid: 500ec77208cef4eedb854b63381569c7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358692886835389198, guid: 500ec77208cef4eedb854b63381569c7, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8548546413571487855, guid: 500ec77208cef4eedb854b63381569c7, type: 3}
       propertyPath: m_Name
       value: PhysicsRoundedBox (3)
@@ -258118,6 +258130,18 @@ PrefabInstance:
     - target: {fileID: 4015579407940777497, guid: 500ec77208cef4eedb854b63381569c7, type: 3}
       propertyPath: m_EdgeRadius
       value: 0.303795
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358692886835389198, guid: 500ec77208cef4eedb854b63381569c7, type: 3}
+      propertyPath: m_Color.b
+      value: 0.04225135
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358692886835389198, guid: 500ec77208cef4eedb854b63381569c7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358692886835389198, guid: 500ec77208cef4eedb854b63381569c7, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5812949359519725982, guid: 500ec77208cef4eedb854b63381569c7, type: 3}
       propertyPath: m_Mass
@@ -386185,6 +386209,18 @@ PrefabInstance:
       propertyPath: m_EdgeRadius
       value: 0.303795
       objectReference: {fileID: 0}
+    - target: {fileID: 4358692886835389198, guid: 500ec77208cef4eedb854b63381569c7, type: 3}
+      propertyPath: m_Color.b
+      value: 0.04225135
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358692886835389198, guid: 500ec77208cef4eedb854b63381569c7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358692886835389198, guid: 500ec77208cef4eedb854b63381569c7, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5812949359519725982, guid: 500ec77208cef4eedb854b63381569c7, type: 3}
       propertyPath: m_Mass
       value: 2.0099015
@@ -392785,6 +392821,18 @@ PrefabInstance:
     - target: {fileID: 4015579407940777497, guid: 500ec77208cef4eedb854b63381569c7, type: 3}
       propertyPath: m_EdgeRadius
       value: 0.303795
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358692886835389198, guid: 500ec77208cef4eedb854b63381569c7, type: 3}
+      propertyPath: m_Color.b
+      value: 0.04225135
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358692886835389198, guid: 500ec77208cef4eedb854b63381569c7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358692886835389198, guid: 500ec77208cef4eedb854b63381569c7, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5812949359519725982, guid: 500ec77208cef4eedb854b63381569c7, type: 3}
       propertyPath: m_Mass
